@@ -11,15 +11,14 @@
       "edition": "SE",
       "title_id": "01000A10041EA000",
       "size_bytes": 0,
-      "url": "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/essentials-se.zip",
-      "sha256": "",
+      "url": "https://github.com/LucNellin/SkyNXModEasy/releases/download/Release/Essencial.7z",
+      "sha256": "sha256:56db7b0f559fdb572d379ba30afba21d80bcfb97b8c2901dbda43fc76404fbf9",
       "screenshots": [
-        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen2.png",
-        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen3.png",
-        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen4.png",
-        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen5.png",
-        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen6.png",
-        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen7.png"
+        "https://github.com/LucNellin/SkyNXModEasy/blob/main/assets/2026041903335700.jpg",
+        "https://github.com/LucNellin/SkyNXModEasy/blob/main/assets/2026041917260800.jpg",
+        "https://github.com/LucNellin/SkyNXModEasy/blob/main/assets/2026042004002400.jpg",
+        "https://github.com/LucNellin/SkyNXModEasy/blob/main/assets/2026082409452600.jpg",
+        "https://github.com/LucNellin/SkyNXModEasy/blob/main/assets/2026082409471800.jpg"
       ]
     }
   ]
