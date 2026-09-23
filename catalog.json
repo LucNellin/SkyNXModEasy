@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "app_version": "1.0.0",
+  "lists": [
+    {
+      "id": "essentials-se",
+      "name": "Skyrim Essentials",
+      "author": "lucas",
+      "description": "Pack base testado e pronto para uso (Special Edition).",
+      "version": "1.0.0",
+      "edition": "SE",
+      "title_id": "01000A10041EA000",
+      "size_bytes": 0,
+      "url": "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/essentials-se.zip",
+      "sha256": "",
+      "screenshots": [
+        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen2.png",
+        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen3.png",
+        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen4.png",
+        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen5.png",
+        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen6.png",
+        "https://github.com/lucas/SkyNXModEasy/releases/download/pack-essentials-v1.0.0/screen7.png"
+      ]
+    }
+  ]
+}
